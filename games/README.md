@@ -1,10 +1,10 @@
-#Games
+#Games#
 
 Eventually this were I will put folders for the games I have made in pico8.
 
 
-#Completed Projects
+##Completed Projects##
 
 
 
-#Work In Progress
+##Work In Progress##
